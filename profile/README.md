@@ -1,7 +1,7 @@
 jufir
 =====
 
-jufir is a personal pet project designed to deepen my understanding of how Android operates at a lower level. This suite is focused on reversing `.apk` files, providing tools and resources to dissect and analyze Android applications.
+jufir is a personal pet project designed to deepen my understanding of how Android operates at a lower level and exercise my knowledge in Rust. This suite is focused on reversing `.apk` files, providing tools and resources to dissect and analyze Android applications.
 
 purpose
 -------
